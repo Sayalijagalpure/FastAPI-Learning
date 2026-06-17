@@ -118,3 +118,4 @@ http://127.0.0.1:8000/docs
 ## Status
 
 Completed FastAPI fundamentals, endpoint creation, path parameters, query parameters, and API testing using Swagger UI.
+
