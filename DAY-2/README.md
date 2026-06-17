@@ -12,7 +12,6 @@ The project uses an in-memory Python list as temporary storage and demonstrates 
 
 * Pydantic Models
 * Request Bodies
-* Path Parameters
 * GET Requests
 * POST Requests
 * PUT Requests
