@@ -1,4 +1,4 @@
-from pydantic import BaseModel
+from pydantic import BaseModel 
 
 class ReadingBase(BaseModel):
     device_id: str
